@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#E7E9F2;
+}
+main{
+    width: 350px;
+    height: auto;
+    background-color: rgb(247, 247, 247);
+    border-radius: 10px;
+    position: relative;
+    top: 100px;
+    left: 520px;
+    box-shadow: 1px 5px 20px 1px rgba(56, 29, 42, 0.1);
+}
+img{
+    position: relative;
+    left: 30%;
+    top: 15%;
+    padding: 10% 0 5% 10%;
+}
+h2{
+    color: #353B3C;
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 5%;
+}
+.emailuno{
+    font-family: 'Tajawal', sans-serif;
+    font-size: 14px;
+    color: rgb(117, 129, 131);
+    text-align: center;
+    padding-bottom: 5%;
+}
+.parrafo{
+    font-family: 'Tajawal', sans-serif;
+    font-size: 12px;
+    color: rgb(138, 154, 156);
+    text-align: center;
+    padding-bottom: 5%;
+}
+article{
+    width: 200px;
+    background-color: rgb(238, 238, 238);
+    padding: 5%;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+h3{
+    font-family: 'Tajawal', sans-serif;
+    font-size: 14px;
+    color: rgb(77, 77, 77);
+    text-align: center;
+}
+.rec{
+    font-family: 'Tajawal', sans-serif;
+    font-size: 12px;
+    color: rgb(138, 154, 156);
+    text-align: center;
+    padding-top: 5%;
+}
+.update{
+    padding: 1% 6% 1% 6%;
+    background-color: #ffffff;
+    color: rgb(150, 150, 150);
+    padding: 5% 15% 5% 15%;
+    border: none;
+    border-radius: 15px;
+    position: relative;
+    left: 20%;
+}
+.confirm{
+    padding: 1% 6% 1% 6%;
+    background-color: #242E4C;
+    color: rgb(230, 230, 230);
+    padding: 3% 10% 3% 10%;
+    margin-bottom: 10%;
+    border: none;
+    border-radius: 20px;
+    position: relative;
+    left: 32%;
+}
